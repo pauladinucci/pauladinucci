@@ -1,4 +1,4 @@
-# <p align="center" style="bold">Hello World, I'm Paula Dinucci<p> 
+# <p align="center" style="bold">Hello World, I'm Paula Dinucci</p> 
 
 <p align="center">Woman in Science 👩‍🔬 and Technology 👩‍💻</p>
 
