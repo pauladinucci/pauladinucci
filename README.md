@@ -4,7 +4,7 @@
 
 
 - 🌱 Biologist, BSc
-- 🧠 Full Stack Web development student
+- 🧠 Developing skills in Full Stack Web Development and Data Science
 - 💭 Interested in Science 🔬, Technology 💻, Environmental Education 🌳, Books 📚, Cinema 🎬 and Travel 🌍
 <br>
 <p align="center"><b>Contact me</b><p>
